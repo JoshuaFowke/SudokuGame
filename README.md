@@ -6,9 +6,8 @@ Starting working through a tutorial from TechwithTim (https://www.youtube.com/wa
 
 Then used the code from https://github.com/techwithtim/Sudoku-GUI-Solver/blob/master/solver.py as a starting point to wrap my head around creating a playable suduko GUI using the pygame library. 
 
-I reproduced that code and then customized the code to:
-1. Make the code a bit cleanrer / easier for me to understand.
+I reproduced similar code and then customized that code to:
+1. Make the code a bit cleaner / easier for me to understand.
 2. Signifigantly changed the GUI to be more clear and user freindly.
 3. Created the functionality to auto generate a new game.
 4. Added a button with hover for creating a new game.
-
