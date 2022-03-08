@@ -51,7 +51,7 @@ def find_empty(su):
     return None
 
 
-# checks if attempted move us valid
+# checks if attempted move is valid
 def valid(su, pos, num):
     """
     :param su: 2d list of ints
