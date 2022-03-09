@@ -1,6 +1,6 @@
 # Sudoku Game
 
-Created a sudoku game with a GUI and an autosolver (with a backtracking algorithom).
+I created a sudoku game with a GUI and an autosolver (with a backtracking algorithom).
 
 Starting working through a tutorial by TechwithTim (https://www.youtube.com/watch?v=eqUwSA0xI-s&t=871s) to build a backtracking algorithm to solve a sudoku puzzle. 
 
