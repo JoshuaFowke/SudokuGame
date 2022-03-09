@@ -10,6 +10,6 @@ Then used the code from https://github.com/techwithtim/Sudoku-GUI-Solver/blob/ma
 
 I reproduced similar code and then customized that code to:
 1. Make the code cleaner / easier for me to understand.
-2. Signifigantly changed the GUI to be more clear and user freindly.
+2. Changed the GUI to be more clear and user freindly.
 3. Created the functionality to auto generate a new game.
 4. Added a button with hover for creating a new game.
